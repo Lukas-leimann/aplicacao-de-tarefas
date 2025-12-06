@@ -68,6 +68,8 @@ Todas as alterações são salvas automaticamente no localStorage.
 ## 📂 Estrutura do Projeto
 ```
 todo-app/
+├── public/
+│   └── index.html
 ├── src/
 │   ├── context/
 │   │   └── TaskContext.js
